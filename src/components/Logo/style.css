@@ -1,0 +1,10 @@
+.logo a {
+    font-family: "Jim Nightshade";
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+    text-shadow: 1px 1px 2px violet;
+}
+.logo {
+    text-align: center;
+}
